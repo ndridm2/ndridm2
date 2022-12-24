@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andri Darmuli</h1>
 <h3 align="center">A passionate mobile developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andridm14&label=Profile%20views&color=0e75b6&style=flat" alt="andridm14" /> </p>
-
-<p align="left"> <a href="https://twitter.com/andridm14_" target="blank"><img src="https://img.shields.io/twitter/follow/andridm14_?logo=twitter&style=for-the-badge" alt="andridm14_" /></a> </p>
-
 - 💬 Ask me about **Kotlin, React Native, Flutter, Swift**
 
 - 📫 How to reach me **trick.coffe26@gmail.com**
