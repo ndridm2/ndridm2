@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andri Darmuli</h1>
 <h3 align="center">A passionate mobile developer from Indonesia</h3>
 
-<img align="right" alt="coding" width="400" scr="https://github-readme-stats.vercel.app/api/top-langs?username=andridm14&show_icons=true&locale=en&layout=compact" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andridm14&label=Profile%20views&color=0e75b6&style=flat" alt="andridm14" /> </p>
+
+<img align="right" alt="coding" width="400" scr=""/>
 
 - 💬 Ask me about **Kotlin, React Native, Flutter, Swift**
 
