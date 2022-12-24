@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andridm14&label=Profile%20views&color=0e75b6&style=flat" alt="andridm14" /> </p>
 
-<img align="right" width="400" scr="" />
+<img align="right" alt="coding" width="400" scr="https://user-images.githubusercontent.com/64353589/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 - 💬 Ask me about **I am someone who is in mobile application developmet, Kotlin, React Native, Flutter, Swift**
 
@@ -28,6 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andridm14&show_icons=true&locale=en" alt="andridm14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andridm14&" alt="andridm14" /></p>
-
-![image](https://user-images.githubusercontent.com/64353589/209425955-86d0ebd0-8c85-457b-b287-21d5b5d162b6.png)
-
