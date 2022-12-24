@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andri Darmuli</h1>
 <h3 align="center">A passionate mobile developer from Indonesia</h3>
 
-<img align="right" alt="coding" width="400" scr="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif"></img>
+<img align="right" alt="coding" width="400" scr="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
 - 💬 Ask me about **Kotlin, React Native, Flutter, Swift**
 
