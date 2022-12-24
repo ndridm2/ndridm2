@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andridm14&label=Profile%20views&color=0e75b6&style=flat" alt="andridm14" /> </p>
 
-<img align="right" alt="coding" width="400" scr="[image] https://user-images.githubusercontent.com/64353589/209424807-c4ee7343-a786-4726-bdcd-201c7c87b54c.png"/>
+<img align="right" alt="coding" width="400" scr="https://user-images.githubusercontent.com/64353589/209424807-c4ee7343-a786-4726-bdcd-201c7c87b54c.png" />
 <img align="right" alt="coding" width="400" scr=""/>
 
 - 💬 Ask me about **Kotlin, React Native, Flutter, Swift**
