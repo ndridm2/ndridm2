@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andridm14&label=Profile%20views&color=0e75b6&style=flat" alt="andridm14" /> </p>
 
-<img align="right" alt="coding" width="400" scr="https://user-images.githubusercontent.com/64353589/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<img align="right" width="400" scr="" />
 
 - 💬 Ask me about **I am someone who is in mobile application developmet, Kotlin, React Native, Flutter, Swift**
 
