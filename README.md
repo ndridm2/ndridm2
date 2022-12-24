@@ -6,9 +6,9 @@
 <img align="right" width=350 height=250 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 
-- 💬 Ask me about, **I am someone who is in mobile application developmet, Kotlin, React Native, Flutter, Swift**
+- 💬 **I am someone who is in mobile application developmet, Kotlin, React Native, Flutter, Swift**
 
-- 📫 How to reach me **trick.coffe26@gmail.com**
+- 📫 Email **trick.coffe26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
