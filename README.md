@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andri Darmuli</h1>
 <h3 align="center">A passionate mobile developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andridm14&label=Profile%20views&color=0e75b6&style=flat" alt="andridm14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ndridm2&label=Profile%20views&color=0e75b6&style=flat" alt="ndrimd2" /> </p>
 
 <img align="right" width=350 height=250 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
@@ -25,9 +25,5 @@
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> </a>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> <a href="https://www.apple.com/id/swift/" target="_blank" rel="noreferrer"> </a> 
 </p>
-
-<details> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndrimd2&show_icons=true&locale=en&layout=compact" alt="ndridm2" /></p> </details>
-
-<details> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndridm2&show_icons=true&locale=en" alt="ndridm2" /></p>  </details>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndridm2&" alt="ndridm2" /></p>
