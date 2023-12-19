@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andri Darmuli</h1>
 <h3 align="center">A passionate mobile developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ndridm2&label=Profile%20views&color=0e75b6&style=flat" alt="ndrimd2" /> </p>
-
 <img align="right" width=300 height=200 src="https://raw.githubusercontent.com/ndridm2/ndridm2/main/coding-freak.gif" />
 
 - 💬 **I am someone who is in mobile application development, Kotlin, Flutter, Swift**
