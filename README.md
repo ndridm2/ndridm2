@@ -5,7 +5,7 @@
 
 <img align="right" width=300 height=200 src="https://raw.githubusercontent.com/ndridm2/ndridm2/main/coding-freak.gif" />
 
-- 💬 **I am someone who is in mobile application developmet, Kotlin, Flutter, Swift**
+- 💬 **I am someone who is in mobile application development, Kotlin, Flutter, Swift**
 
 - 📫 Email **trick.coffe26@gmail.com**
 
