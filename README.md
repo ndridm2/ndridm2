@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andri Darmuli</h1>
 
-<img align="right" width=300 height=280 src="https://raw.githubusercontent.com/ndridm2/ndridm2/main/coding-freak.gif" />
+<img align="right" width=300 height=250 src="https://raw.githubusercontent.com/ndridm2/ndridm2/main/coding-freak.gif" />
 
 - 💻 **I'm someone who is in mobile application development, Kotlin, Flutter, Swift**
 
