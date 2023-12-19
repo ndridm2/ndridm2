@@ -5,12 +5,7 @@
 - 💻 **I'm someone who is in mobile application development, Kotlin, Flutter, Swift**
 
 - 📫 Email **trick.coffe26@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/andridm14_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andridm14_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andri darmuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andri darmuli" height="30" width="40" /></a>
-</p>
+- 〄 Trickoff <a href="https://trickoff.me/" target="_blank" rel="noreferrer">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
