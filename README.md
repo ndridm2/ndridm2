@@ -24,5 +24,3 @@
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> </a>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> <a href="https://www.apple.com/id/swift/" target="_blank" rel="noreferrer"> </a> 
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndridm2&" alt="ndridm2" /></p>
