@@ -5,7 +5,8 @@
 - 💻 **I'm someone who is in mobile application development, Kotlin, Flutter, Swift**
 
 - 📫 Email **trick.coffe26@gmail.com**
-- 〄 **trickoff.me** 
+- 〄 **trickoff.me** <a href="http://trickoff.me/" target="_blank" rel="noreferrer">
+<img src="https://trickoff.me/image/logo.png" width="40" height="40"/> </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
