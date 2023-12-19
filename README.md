@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andri Darmuli</h1>
-<h3 align="center">A passionate mobile developer </h3>
 
-<img align="right" width=300 height=200 src="https://raw.githubusercontent.com/ndridm2/ndridm2/main/coding-freak.gif" />
+<img align="right" width=300 height=400 src="https://raw.githubusercontent.com/ndridm2/ndridm2/main/coding-freak.gif" />
 
-- 💬 **I am someone who is in mobile application development, Kotlin, Flutter, Swift**
+- 💻 **I'm someone who is in mobile application development, Kotlin, Flutter, Swift**
 
 - 📫 Email **trick.coffe26@gmail.com**
 
