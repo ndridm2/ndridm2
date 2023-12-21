@@ -2,13 +2,13 @@
 
 <img align="right" width=300 height=250 src="https://raw.githubusercontent.com/ndridm2/ndridm2/main/coding-freak.gif" />
 
-- 💻 **I'm someone who is in mobile application development with :**
-  - *Kotlin*
-  - *Flutter*
-  - *Swift*
+- 💻 I'm someone who is in mobile application development with :
+  - Kotlin
+  - Flutter
+  - Swift
 
-- **📫 Email trick.coffe26@gmail.com**
-- Check it <a href="https://trickoff.me/" target="_blank" rel="noreferrer"> <img src="https://trickoff.me/image/logo.png" width="40" height="40"/> </a>
+- 📫 Email trick.coffe26@gmail.com
+- <a href="https://trickoff.me/" target="_blank" rel="noreferrer"> trickoof.me </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
