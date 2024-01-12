@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andri Darmuli</h1>
+<h1 align="right">Hi 👋, I'm Andri Darmuli</h1>
 
 <img align="right" width=300 height=250 src="https://raw.githubusercontent.com/ndridm2/ndridm2/main/coding-freak.gif" />
 
