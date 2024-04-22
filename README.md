@@ -4,6 +4,7 @@
 
 - 💻 I'm someone who is in mobile application development with :
   - Kotlin
+  - Android
   - Flutter
   - Swift
 
