@@ -11,20 +11,8 @@ Software Developer | Android-iOS-Flutter-Swift-Jetpack Compose
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  
-  <a href="https://figma.com/" target="_blank" rel="noreferrer">
-<!-- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> -->
-  
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
-<!-- <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> -->
-  
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-<!-- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> -->
 
-  <a href="https://www.apple.com/id/swift/" target="_blank" rel="noreferrer">
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> -->
-
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Swift](https://img.shields.io/badge/swift-%23ED8B00.svg?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/jetpack_compose-%23ED8B00.svg?style=for-the-badge&logo=jetpack-compose) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Swift](https://img.shields.io/badge/swift-%23ED8B00.svg?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/jetpack_compose-%23ED8B00.svg?style=for-the-badge&logo=jetpack-compose) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Laravel](https://img.shields.io/badge/laravel-%23039BE5.svg?style=for-the-badge&logo=laravel) ![MYSQL](https://img.shields.io/badge/mysql-%23039BE5.svg?style=for-the-badge&logo=mysql)
 
 </p>
 
