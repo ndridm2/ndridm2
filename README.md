@@ -26,4 +26,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 </p>
 
-<!-- <img align="right" width=300 height=250 src="https://raw.githubusercontent.com/ndridm2/ndridm2/main/coding-freak.gif" /> -->
+<p align="center" >
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharhow&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,html,css,tsql,hack)](https://github.com/ndridm2) <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=tusharhow&theme=tokyonight&hide_border=true&background=1F222E" />
+  
+</p>
+
