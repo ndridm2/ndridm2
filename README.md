@@ -10,8 +10,11 @@ Software Developer | Android-iOS-Flutter-Swift-Jetpack Compose
 [![Web](https://img.shields.io/badge/%20-Link%20Web-black?color=007EC6&labelColor=555555&logo=web&logoColor=f5f7fe)](https://trickoff.me/)
 
 🚀
+
 🚀
+
 🚀
+
 🚀
 
 <h3 align="left">Languages and Tools:</h3>
