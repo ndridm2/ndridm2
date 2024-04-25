@@ -9,13 +9,13 @@ Software Developer | Android-iOS-Flutter-Swift-Jetpack Compose
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=007EC6&labelColor=555555&logo=gmail&logoColor=f5f7fe)](mailto:trick.coffe26@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 [![Web](https://img.shields.io/badge/%20-Link%20Web-black?color=007EC6&labelColor=555555&logo=web&logoColor=f5f7fe)](https://trickoff.me/)
 
-🚀
 
-🚀
 
-🚀
 
-🚀
+
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
