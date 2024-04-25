@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Andri Darmuli</h1>
 
-<img align="right" width=300 height=250 src="https://raw.githubusercontent.com/ndridm2/ndridm2/main/coding-freak.gif" />
+<img align="right" width=300 height=250 src="https://github.com/ndridm2/ndridm2/assets/64353589/2ae2dc53-bbee-427f-90b4-18ca88d6ab37" />
 
 - 💻 I'm someone who is in mobile application development with :
   - Kotlin
@@ -25,3 +25,5 @@
   <a href="https://www.apple.com/id/swift/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 </p>
+
+<!-- <img align="right" width=300 height=250 src="https://raw.githubusercontent.com/ndridm2/ndridm2/main/coding-freak.gif" /> -->
