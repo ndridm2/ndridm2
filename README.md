@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Andri Darmuli</h1>
 
-<img align="right" width=250 height=200 src="https://github.com/ndridm2/ndridm2/assets/64353589/2ae2dc53-bbee-427f-90b4-18ca88d6ab37" />
+<img align="right" width=250 height=200 src="https://github.com/user-attachments/assets/7a321b57-2ec8-4ba2-9865-427c0b814d97" />
 
 Software Developer | Android-iOS-Flutter-Swift-Jetpack Compose
 
